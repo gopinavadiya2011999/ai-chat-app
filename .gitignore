@@ -1,0 +1,8 @@
+/.dart_tool/
+/.idea/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/pubspec.lock
+/ios/Podfile.lock
+/build/
+/ios/Runner.xcworkspace/
