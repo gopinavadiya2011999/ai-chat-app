@@ -3,7 +3,7 @@
 Welcome to  AI-Chat App, a cutting-edge application designed to bring advanced AI capabilities to both iOS and Android platforms.
 With a focus on enhancing user interaction and accessibility, AI-Chat App is packed with powerful features.
 
-![gemini_github_cover](https://github.com/user-attachments/assets/8ebebfbf-17e3-4862-ba00-68c09a0c08a7)
+![ai_banner1](https://github.com/user-attachments/assets/bee3a03d-6600-476a-8ca5-df44990b8496)
 
 ## Features
 
@@ -14,7 +14,7 @@ With a focus on enhancing user interaction and accessibility, AI-Chat App is pac
   - **Text-and-image input** [scroll](#text-and-image-input)
 - **Advanced Usage** [scroll](#advanced-usage)
   - **Text-to-speech** [scroll](#text-to-speech)
-  - **Speech-to-text with video** [scroll](#speech-to-text)
+  - **Speech-to-text** [scroll](#speech-to-text)
   - **Dark-light theme** [scroll](#dark-light-theme)
   - **Custom gallery** [scroll](#custom-gallery)
 - **Gemini Widget** [scroll](#gemini-widget)
@@ -40,9 +40,7 @@ void main() {
 
 ## Content-based APIs
 
-
-https://github.com/user-attachments/assets/f8aefb5e-5ab0-4dae-b9af-14838e77f75f
-
+https://github.com/user-attachments/assets/1189f3d9-60b8-413b-b335-075c649d4731
 
 #### Text-only input
 
@@ -102,7 +100,7 @@ Future stop() async {
   }
 ```
 
-#### Speech-to-text with video
+#### Speech-to-text
 
 Using the speech_to_text package, the provided code demonstrates how to start and stop speech recognition in a Flutter app.
 The listen function initializes the speech recognizer, starts listening for speech input, and prints the recognized words or any errors to the console.
@@ -191,11 +189,9 @@ When the loading state is true, it returns a loading widget, and when the respon
          }}),
 ```
 
-![download-compresskaru com (1)](https://github.com/user-attachments/assets/9fc7913b-b8a7-4ab4-bb0f-80b8ac36c7bc)  ![download-compresskaru com (2)](https://github.com/user-attachments/assets/7504d794-fcf4-444d-b0b4-f16b9c0d54b4) ![download-compresskaru com](https://github.com/user-attachments/assets/bd689b0b-07ca-4462-bb8b-3a997c577914)
+![download-compresskaru com](https://github.com/user-attachments/assets/ebe1fdc2-5586-45ea-a5fd-87581335892a) ![download-compresskaru com 6 39 34 PM](https://github.com/user-attachments/assets/e9481985-ae00-4725-99fd-ff13b611322b) ![download-compresskaru com 6 07 50 PM](https://github.com/user-attachments/assets/ff3d5240-3263-4ed7-813c-6f91002ef356)
 
-![download-compresskaru com (1)](https://github.com/user-attachments/assets/4551ecf7-ab7a-4b0b-abf9-f3383a83c456) ![download-compresskaru com](https://github.com/user-attachments/assets/63670481-a421-4d4a-bef0-3605176bdfd3)  ![download-compresskaru com](https://github.com/user-attachments/assets/4c0728f4-c59c-4c37-9cf8-16665722dcfb)
-
-
+![download-compresskaru com 6 07 38 PM](https://github.com/user-attachments/assets/d078ef61-2830-4860-b1c1-27ac496e9a45) ![download-compresskaru com (2)](https://github.com/user-attachments/assets/34603635-c87d-4e98-a70f-710749eb66f7) ![download-compresskaru com (1) 6 04 56 PM](https://github.com/user-attachments/assets/27f6540c-b2fd-4918-9c44-6918c5cf4831)
 
 
 This version includes all necessary information and code snippets for your AI-Chat app, presented in a clear and organized manner.
